@@ -1,0 +1,21 @@
+.fa-location-arrow, .fa-envelope, .fa-phone{
+  font-size: 75px;
+  color: #42f49b;
+
+}
+
+.info-me{
+  font-size: 14px !important;
+}
+
+.logo-color{
+  color: #42f49b;
+}
+
+.progress-bar{
+  background: #42f49b !important;
+}
+
+.progress-percent{
+  color: black !important;
+}
