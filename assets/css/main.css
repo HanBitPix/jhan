@@ -19,3 +19,7 @@
 .progress-percent{
   color: black !important;
 }
+
+.bold-font{
+  font-weight: bold !important;
+}
